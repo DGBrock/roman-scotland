@@ -1,1 +1,9 @@
-
+{
+"type": "FeatureCollection",
+"name": "RomanLegionaryFortresses_Scotland",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE TYPE": "Legionary Fortress (Roman)", "SITE NUMBER": "NO13NW 50", "SITE NAME": "Inchtuthil", "CANMORE ID": 28592, "SITE EASTING": 312510, "SITE NORTHING": 739710, "COUNCIL": "PERTH AND KINROSS", "COUNTY": "PERTHSHIRE", "PARISH": "CAPUTH", "NGR": "NO 1251 3971", "PROBABILITY": "CONFIRMED", "FLAVIAN": "T", "NERVA-ANTONINE": "F", "SEVERAN": "F", "Possible Earliest Date (AD)": "c. 83", "Probable Earliest Date (AD)": 83, "Possible Latest Date (AD)": "c. 86", "Probable Latest Date (AD)": 86, "SIZE (ac.)": 53.0, "DIMENSIONS": "1520' by 1565'", "SHAPE": "Square", "TITULI": "F", "RIVER": "T", "GEOGRAPHICAL LOCATION": "Built into natural ridge", "NOTES": "C14 ad 100 +\/-80", "URL": "http:\/\/canmore.org.uk\/site\/28592" }, "geometry": { "type": "Point", "coordinates": [ 312510.0, 739710.0 ] } },
+{ "type": "Feature", "properties": { "SITE TYPE": "Legionary Fortress (Roman)", "SITE NUMBER": "NO21NW 240", "SITE NAME": "Carpow", "CANMORE ID": 30081, "SITE EASTING": 320711, "SITE NORTHING": 717898, "COUNCIL": "PERTH AND KINROSS", "COUNTY": "PERTHSHIRE", "PARISH": "ABERNETHY (PERTH AND KINROSS)", "NGR": "NO 20711 17898", "PROBABILITY": "CONFIRMED", "FLAVIAN": "F", "NERVA-ANTONINE": "F", "SEVERAN": "T", "Possible Earliest Date (AD)": "c. 180", "Probable Earliest Date (AD)": 210, "Possible Latest Date (AD)": "c. 220", "Probable Latest Date (AD)": 215, "SIZE (ac.)": 27.5, "DIMENSIONS": "1,125' by 936'", "SHAPE": "Rectangular", "TITULI": "F", "RIVER": "T", "GEOGRAPHICAL LOCATION": "River control point", "NOTES": "Single, short period of occupation", "URL": "http:\/\/canmore.org.uk\/site\/30081" }, "geometry": { "type": "Point", "coordinates": [ 320711.0, 717898.0 ] } }
+]
+}
